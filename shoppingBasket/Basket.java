@@ -1,3 +1,4 @@
+package shoppingBasket;
 import java.math.BigDecimal;
 public class Basket {
   private SaleItem[] items;
